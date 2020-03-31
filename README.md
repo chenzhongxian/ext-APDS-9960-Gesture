@@ -14,19 +14,17 @@ APDS-9960 手势识别传感器能够识别你手的运动方向，可以作为�
 
 - **本用户库加载地址：**
 
-  GitHub：[https://github.com/chenzhongxian/ext-fingerprint](https://github.com/chenzhongxian/ext-fingerprint)
+  GitHub：[https://github.com/chenzhongxian/ext-APDS-9960-Gesture](https://github.com/chenzhongxian/ext-APDS-9960-Gesture)
 
-  或：码云（推荐国内用户使用）：[https://gitee.com/ironpanda/ext-fingerprint](https://gitee.com/ironpanda/ext-fingerprint) 
+  或：码云（推荐国内用户使用）：[https://gitee.com/ironpanda/ext-APDS-9960-Gesture](https://gitee.com/ironpanda/ext-APDS-9960-Gesture) 
 
 - **Mind+ 软件下载地址：**[http://mindplus.cc](http://mindplus.cc)
 
-- **指纹传感器 Arduino 库地址：**[https://github.com/adafruit/Adafruit_APDS9960](https://github.com/adafruit/Adafruit_APDS9960)
+- **Arduino 库地址：**[https://github.com/sparkfun/APDS-9960_RGB_and_Gesture_Sensor](https://github.com/sparkfun/APDS-9960_RGB_and_Gesture_Sensor)
 
-- **产品购买推荐链接**：[https://www.dfrobot.com.cn/goods-1191.html](https://www.dfrobot.com.cn/goods-1191.html)
+- **产品购买推荐链接：**[https://www.dfrobot.com.cn/goods-1191.html](https://www.dfrobot.com.cn/goods-1191.html)
 
 ## 图形模块 Blocks
-
-Mind+ 模块：
 
 ![](./arduinoC/_images/block.png)
 

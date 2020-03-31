@@ -1,0 +1,31 @@
+{
+  "name": {
+    "zh-cn": "手势传感器 APDS-9960",
+    "en": "APDS-9960 RGB and Gesture Sensor"
+  },
+  "description": {
+    "zh-cn": "铁熊出品：可以识别向上、向下、向左、向右、靠近、远离等手势。",
+    "en": "This sensor offers ambient light and color measuring, proximity detection, and touchless gesture sensing."
+  },
+  "author": "铁熊",
+  "email": "xyxybot@gmail.com",
+  "license": "MIT",
+  "isBoard": false,
+  "id": "apds9960",
+  "platform": ["win", "mac", "web"],
+  "asset": {
+    "arduinoC": {
+      "dir": "arduinoC/",
+      "version": "0.1.0",
+      "board": [
+        "arduino",
+        "arduinounor3",
+        "arduinonano",
+        "leonardo",
+        "mega2560",
+        "esp32"
+      ],
+      "main": "main.ts"
+    }
+  }
+}
